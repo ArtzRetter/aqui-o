@@ -1,0 +1,14 @@
+body{
+    background: #d7e1ac;
+    margin-right:200px;
+    margin-left:200px; 
+}
+header{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.common_image{
+    margin-top:20px;
+    margin-bottom:20px;
+    width:500px;
+}
